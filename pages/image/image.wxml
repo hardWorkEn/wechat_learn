@@ -1,0 +1,6 @@
+<image src="/assets/cart_active.png"/>
+<image src="https://res.wx.qq.com/wxdoc/dist/assets/img/0.4cb08bb4.jpg" show-menu-by-longpress></image>
+<button bindtap="choosePhone">选择图片</button>
+<image src="{{imagePath}}"></image>
+
+<image show-menu-by-longpress src="/assets/cart_active.png"></image>

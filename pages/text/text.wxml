@@ -1,0 +1,8 @@
+<!--pages/text/text.wxml-->
+<text>pages/text/text.wxml</text><text selectable="{{true}}">aaaaa\n</text>
+<text>hello world\n</text>
+<text space="ensp">hello world\n</text>
+<text space="emsp">hello world\n</text>
+<text space="nbsp">hello world\n</text>
+
+<text decode="{{true}}">5 &gt; 3</text>
