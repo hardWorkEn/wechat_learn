@@ -1,2 +1,15 @@
 <!--pages/home/home.wxml-->
-<text class="title">陈超的小程序</text>
+<!--<view>hello {{name}}</view>
+
+
+<view wx:for="{{students}}">{{item.name}}---{{item.age}}</view>
+
+<view>当前计数：{{count}}</view>
+
+<button size="mini" bindtap="handleBtnclick">+</button>
+<button size="mini" bindtap="handleBtnclickfl">-</button>-->
+
+你好,微信
+
+<button size="mini" open-type="getPhoneNumber" bindgetphonenumber="bindleBtn2">授权</button>
+<open-data type="userNickName"></open-data>
